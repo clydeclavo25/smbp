@@ -1,0 +1,2 @@
+AuthName "backend"
+AuthUserFile "/home/scimathb/.htpasswds/public_html/backend/passwd"
