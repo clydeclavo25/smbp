@@ -15,12 +15,6 @@ class Db
         $this->db_username = 'root'; //Database Username
         $this->db_password = ''; //Database Password
 
-        //Enter your database connection details here.
-        //FOR PRODUCTION
-        // $this->host = 'localhost'; //Host Name
-        // $this->db_name = 'scimathb_smbpp_db'; //Database Name
-        // $this->db_username = 'scimathb_dbuser'; //Database Username
-        // $this->db_password = 'Smbpp2017'; //Database Password 
     }
     
 
